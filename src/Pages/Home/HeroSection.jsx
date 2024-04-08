@@ -9,14 +9,16 @@ export default function HeroSection() {
             <span className="hero-section-title-color">Full Stack</span> <br />
             Developer
           </h1>
-          <p className="hero-sectio-description">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum,
-            omnis iure commodi temporibus animi neque, est quo ullam incidunt
-            nemo suscipit consequatur recusandae fugit quia quibusdam dolor
-            reiciendis voluptate minima!
+          <p className="hero-section-description">
+              A Dreamer, driven by a deep-seated desire to make a difference,
+              I am on a mission to harness the power of technology for the greater good.
+              By combining my passion for innovation with a commitment to social responsibility,
+              I strive to create meaningful change that transcends boundaries and empowers communities worldwide.
             <br />
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            obcaecati aliquid ipsa consectetur molestias?
+            If you share my vision for a safer, more inclusive digital future,
+            I'd love to connect and explore how we can collaborate to turn dreams into reality.
+            Feel free to reach out, and let's embark on this journey together.
+
           </p>
         </div>
         <Link to="Contact" spy={true} smooth={true} offset={-70} duration={500}>
