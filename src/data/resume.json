@@ -1,0 +1,333 @@
+{
+  "personal": [
+    {
+      "id": 1,
+      "type": "LinkedIn",
+      "description": "https://www.linkedin.com/in/hongheejin/"
+    },
+    {
+      "id": 2,
+      "type": "Github",
+      "description": "https://github.com/heehong01/"
+    }
+  ],
+  "educational": [
+    {
+      "id": "1",
+      "university-name": "University of Minnesota - Twin Cities",
+      "degree": "Bachelor's of Applied Science",
+      "major": "Information Technology Infrastructure",
+      "minor": "Computer Science",
+      "description": "Lorem ipsum dolpr sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "date-start": "09/2016",
+      "date-end": "05/2021"
+    }
+  ],
+  "certification": [
+    {
+      "id": "1",
+      "company": "Teksystems",
+      "major": "Full Stack Java Development Certification",
+      "description": "Lorem ipsum dolpr sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+    }
+  ],
+
+  "jobs": [
+    {
+      "id": "1",
+      "company": "Optum",
+      "title": "Software Engineer",
+      "location": "Remote",
+      "date-start": "05/2022",
+      "date-end": "12/2023",
+      "description": [
+        "Revised and optimized 10+ REST/GraphQL APIs and microservices, creating a centralized access point for efficient data collection from external partners",
+        "Upgraded and modernized 8+ architect APIs to latest Spring Boot and Java 17, ensuring seamless integration with our internal systems",
+        "Achieved an 80% improvement in data retrieval efficiency by enhancing database query performance and implementing secure database connections to meet HIPAA compliance",
+        "Implemented enhancements that resulted in a 50% reduction in response time, addressing and resolving bottlenecks in two critical queries, thereby improving overall system performance",
+        "Incorporated a notional savings account product into the healthcare system by developing new features to address product gaps and meet business requirements using Spring Framework and Java 7",
+        "Revamped QA testing process by executing in-depth analysis on the existing codebase, subsequently creating detailed documentation for ongoing development, resulting in a 40% decrease in bug resolution time and a 25% increase in overall software quality",
+        "Designed user interfaces for an internal project management web app using React, React Hooks, Material-UI, Bootstrap, and Spring Boot; redesigned project request workflow for external stakeholders, leading to a 40% increase in on-time project delivery"
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Abbott",
+      "title": "Software Verification Engineer",
+      "location": "St. Paul, MN",
+      "date-start": "09/2021",
+      "date-end": "12/2021",
+      "description": [
+        "Designed 5+ test cases to ensure EnsiteX Electrophysiology software adheres to FDA and ISO standards for medical devices",
+        "Overhauled product requirements for efficiency, conducted user workflow simulations, and verified software design adherence to industry standards; increased software usability by 40% and reduced development time by 25%",
+        "Formulated procedures, configured tools, and executed Python scripts to perform dry run testing, regression testing and formal verification activities",
+        "Collaborated with development teams to resolve 30+ software defects in collaboration with development teams, submitting a JIRA issue and reported testing results in PTC"
+      ]
+    },
+    {
+      "id": "3",
+      "company": "PROVOSO",
+      "title": "Data Engineering Intern",
+      "location": "Remote",
+      "date-start": "03/2021",
+      "date-end": "07/2021",
+      "description": [
+        "Mastered Rust programming, AWS Comprehend & Textract, and other relevant tech skills for a comprehensive understanding and researched diverse programs comprehensively to seamlessly align them with project requirements",
+        "Developed, troubleshot, and compiled code for various projects, consistently meeting both project specifications and adhering to company standards"
+      ]
+    },
+    {
+      "id": "4",
+      "company": "University of Minnesota - Twin Cities; Dental IT",
+      "title": "Student Tech Support Services",
+      "location": "Remote",
+      "date-start": "07/2020",
+      "date-end": "03/2021",
+      "description": [
+        "Troubleshooting and repairing software and hardware with roughly 100 clients per week via phone, email, and face to face interaction",
+        "Conveying solutions to clients in verbal and written form to solve current technology problems and prevent further issues",
+        "Compile, organize, and file over 800 Protected Health Information per week to reduce time and allow files to be easily accessible to practitioners"
+      ]
+    },
+    {
+      "id": "5",
+      "company": "Health Catalyst",
+      "title": "Analytical Engineering Intern",
+      "location": "Minnetonka, MN",
+      "date-start": "10/2019",
+      "date-end": "03/2020",
+      "description": [
+        "Completed tasks and workload for developers and directed communication for problem resolution",
+        "Supported Data Architect and Systems Administration team by resolving over 30 ticket requests per week",
+        "Compiled, organized, and documented over 300 types of files and dashboards to enforce proper protocols",
+        "Operated and managed around 5-10 promotions of Subject Area Marts per week",
+        "Troubleshooted data mart failures and communicated issues to appropriate owners"
+      ]
+    },
+    {
+      "id": "6",
+      "company": "University of Minnesota - Twin Cities; Dental IT",
+      "title": "Student Tech Support Services",
+      "location": "Remote",
+      "date-start": "12/2018",
+      "date-end": "09/2019",
+      "description": [
+        "Troubleshooting and repairing software and hardware with roughly 100 clients per week via phone, email, and face to face interaction",
+        "Conveying solutions to clients in verbal and written form to solve current technology problems and prevent further issues",
+        "Compile, organize, and file over 800 Protected Health Information per week to reduce time and allow files to be easily accessible to practitioners"
+      ]
+    }
+  ],
+  "skills-programming-language": [
+    {
+      "id": "1",
+      "type": "programming-languages",
+      "name": "Java",
+      "level": 5
+    },
+    {
+      "id": "2",
+      "type": "programming-languages",
+      "name": "MongoDB",
+      "level": 5
+    },
+    {
+      "id": "3",
+      "type": "programming-languages",
+      "name": "JavaScript",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "type": "programming-languages",
+      "name": "SQL",
+      "level": 5
+    },
+    {
+      "id": "5",
+      "type": "programming-languages",
+      "name": "Python",
+      "level": 4
+    },
+    {
+      "id": "6",
+      "type": "programming-languages",
+      "name": "HTML",
+      "level": 4
+    },
+    {
+      "id": "7",
+      "type": "programming-languages",
+      "name": "C",
+      "level": 3
+    }
+  ],
+  "skills-software-concepts": [
+    {
+      "id": "1",
+      "type": "software-concepts",
+      "name": "Agile",
+      "level": 5
+    },
+    {
+      "id": "2",
+      "type": "software-concepts",
+      "name": "SDLC",
+      "level": 5
+    },
+    {
+      "id": "3",
+      "type": "software-concepts",
+      "name": "Object Oriented Programming",
+      "level": 4
+    },
+    {
+      "id": "4",
+      "type": "software-concepts",
+      "name": "Microservices",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "type": "software-concepts",
+      "name": "Functional Programming",
+      "level": 4
+    },
+    {
+      "id": "6",
+      "type": "software-concepts",
+      "name": "MVC",
+      "level": 4
+    }
+  ],
+  "skills-software-skills": [
+    {
+      "id": "1",
+      "type": "software-skills",
+      "name": "Full-stack Development",
+      "level": 4
+    },
+    {
+      "id": "2",
+      "type": "software-skills",
+      "name": "Spring Boot",
+      "level": 4
+    },
+    {
+      "id": "3",
+      "type": "software-skills",
+      "name": "Maven",
+      "level": 4
+    },
+    {
+      "id": "4",
+      "type": "software-skills",
+      "name": "Mongo Compass",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "type": "software-skills",
+      "name": "Microservices",
+      "level": 4
+    },
+    {
+      "id": "6",
+      "type": "software-skills",
+      "name": "Jenkins",
+      "level": 4
+    },
+    {
+      "id": "7",
+      "type": "software-skills",
+      "name": "RESTful API",
+      "level": 4
+    },
+    {
+      "id": "8",
+      "type": "software-skills",
+      "name": "JIRA",
+      "level": 4
+    },
+    {
+      "id": "9",
+      "type": "software-skills",
+      "name": "Rally",
+      "level": 4
+    },
+    {
+      "id": "10",
+      "type": "software-skills",
+      "name": "Confluence",
+      "level": 4
+    },
+    {
+      "id": "11",
+      "type": "software-skills",
+      "name": "Web Development",
+      "level": 4
+    },
+    {
+      "id": "12",
+      "type": "software-skills",
+      "name": "React",
+      "level": 4
+    },
+    {
+      "id": "13",
+      "type": "software-skills",
+      "name": "Git",
+      "level": 4
+    },
+    {
+      "id": "14",
+      "type": "software-skills",
+      "name": "Github",
+      "level": 4
+    },
+    {
+      "id": "15",
+      "type": "software-skills",
+      "name": "Intellij",
+      "level": 4
+    },
+    {
+      "id": "16",
+      "type": "software-skills",
+      "name": "VS Code",
+      "level": 4
+    },
+    {
+      "id": "17",
+      "type": "software-skills",
+      "name": "Linux",
+      "level": 4
+    },
+    {
+      "id": "18",
+      "type": "software-skills",
+      "name": "Postman",
+      "level": 4
+    },
+    {
+      "id": "19",
+      "type": "software-skills",
+      "name": "Hibernate",
+      "level": 4
+    },
+    {
+      "id": "20",
+      "type": "software-skills",
+      "name": "Unit Testing",
+      "level": 4
+    }
+  ],
+  "skills-foreign-language": [
+    {
+      "id": "36",
+      "type": "foreign-languages",
+      "name": "Korean",
+      "level": 5
+    }
+  ]
+}
