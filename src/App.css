@@ -70,8 +70,8 @@ p {
 }
 
 .btn-github {
-  color: var (--white);
   background-color: var(--github);
+  text-decoration: none;
   border: var(--github);
   display: flex;
   flex-direction: row;
@@ -82,8 +82,15 @@ p {
 }
 
 .btn-github:hover {
-  color: var(--github);
   background-color: var(--white);
+}
+
+.btn-github-a {
+  color: var(--white);
+  text-decoration: none;
+}
+.btn-github-a:hover {
+  color: var(--github);
 }
 
 /* Global CSS Ends */
@@ -160,6 +167,13 @@ h3 {
   font-size: 16px;
   font-weight: 600;
   line-height: 24px;
+}
+.portfolio-section-img-val {
+  border-radius: 2%;
+}
+a {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
 }
 
 /* Section Titles Ends */
