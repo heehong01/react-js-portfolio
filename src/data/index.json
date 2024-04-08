@@ -28,24 +28,24 @@
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolpr sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/my-portfolio.png",
+      "title": "My Portfolio Website",
+      "description": "React based website to showcase my portfolio.",
+      "link": "https://github.com/heehong01/react-js-portfolio"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolpr sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/city-scape-gardens.png",
+      "title": "City Scape Gardens Web App",
+      "description": "Capstone Project from Full-Stack Java Development Certification - website that allows a user to create their own garden that fits their daily lifestyle.",
+      "link": "https://github.com/heehong01/capstone_project"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolpr sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/github-project-folder.png",
+      "title": "Full Stack Java Coding Repo",
+      "description": "Coding repository that holds all the coding projects during my time completing the Full-Stack Java Development Certification.",
+      "link": "https://github.com/heehong01/FullStackBootcamp_Projects"
     }
   ]
 }
