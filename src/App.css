@@ -638,6 +638,7 @@ input[type="checkbox"] {
 
 /* Responsive Screens */
 @media only screen and (max-width: 1800px) {
+
   .hero-section-title {
     font-size: 68px;
     line-height: 70px;
@@ -683,23 +684,52 @@ input[type="checkbox"] {
   }
   .hero-section-title,
   .hero-section-description,
-  .footer-content {
+  .footer-content
+  .resume-section{
     text-align: center;
   }
+
   .skills-section-container,
   .about-section,
   .portfolio-section-container,
   .portfolio-container-box,
   .footer-link-container,
   .footer-items > ul,
-  .footer-content-container {
+  .footer-content-container,
+  .resume-section,
+  .resume-container-box,
+  .resume-container-information-box {
     display: flex;
     flex-direction: column;
+  }
+  .resume-skills-software-skills,
+   .resume-skills-software-concepts,
+    .resume-skills-programming-level,
+    .resume-skills-foreign-language,
+    .resume-education-content
+    {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+  .resume-skills-programming-language > h4,
+   .resume-skills-software-concept > h4,
+    .resume-skills-software-skill > h4,
+    .resume-skills-language > h4,
+    .resume-education-content-info
+    {
+  text-align: center;
+  }
+
+
+  .resume-container-information-right{
+  width: 100%;
   }
   .skills-section,
   .portfolio-container,
   .hero-section-content,
-  .hero-section-content-box {
+  .hero-section-content-box,
+  .resume-container-information-box {
     align-items: center;
   }
   .portfolio-container-box {
@@ -708,7 +738,9 @@ input[type="checkbox"] {
   .skills-section,
   .testimonial-section,
   .contact-section,
-  .footer-container {
+  .footer-container,
+  .resume-section
+  {
     gap: 20px;
     padding-top: 70px;
     padding-bottom: 70px;
@@ -771,6 +803,7 @@ input[type="checkbox"] {
 }
 
 @media screen and (max-width: 1200px) {
+
   .nav_hamburger {
     display: flex;
     z-index: 200;
@@ -848,9 +881,6 @@ input[type="checkbox"] {
   grid-template-columns: repeat(2, 1fr);
 }
 
-.resume-container-information-right {
-  width: 80%;
-}
 
 .resume-skills-content-programming-language {
   display: flex;

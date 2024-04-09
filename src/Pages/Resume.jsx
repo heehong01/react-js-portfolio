@@ -14,7 +14,7 @@ const Resume = () => {
           <div className="resume-education-information">
             {data?.educational?.map((item, index) => (
               <div key={index} className="resume-education-content">
-                <div>
+                <div className="resume-education-content-info">
                   <h3>{item["university-name"]}</h3>
                   <h4>{item.degree}</h4>
                   <i>{item.major}</i>
@@ -27,7 +27,7 @@ const Resume = () => {
           <br />
           <div className="resume-skills-programming-language">
             <h4>Programming Languages</h4>
-            <div>
+            <div className="resume-skills-programming-level">
               {data?.["skills-programming-language"]?.map((item, index) => (
                 <ul key={index} className="resume-skills-content">
                   <li className="resume-skills-content-programming-language">
@@ -53,7 +53,7 @@ const Resume = () => {
             </div>
           </div>
 
-          <div>
+          <div className="resume-skills-software-concept">
             <h4>Software Concepts</h4>
             <div className="resume-skills-software-concepts">
               {data?.["skills-software-concepts"]?.map((item, index) => (
@@ -63,7 +63,7 @@ const Resume = () => {
               ))}
             </div>
           </div>
-          <div>
+          <div className="resume-skills-software-skill" >
             <h4>Software Skills</h4>
             <div className="resume-skills-software-skills">
               {data?.["skills-software-skills"]?.map((item, index) => (
@@ -73,7 +73,7 @@ const Resume = () => {
               ))}
             </div>
           </div>
-          <div>
+          <div className="resume-skills-language">
             <h4>Foreign Languages</h4>
             <div className="resume-skills-foreign-language">
               {data?.["skills-foreign-language"]?.map((item, index) => (

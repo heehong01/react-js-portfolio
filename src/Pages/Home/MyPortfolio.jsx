@@ -32,22 +32,8 @@ const MyPortfolio = () => {
                 <p className="text-md">{item.description}</p>
               </div>
               <p className="text-sm portfolio-link">
-                <a href={item.link}>View in Github</a>
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="16"
-                  height="16"
-                  viewBox="0 0 20 19"
-                  fill="none"
-                >
-                  <path
-                    d="M4.66667 1.66675H18V15.0001M18 1.66675L2 17.6667L18 1.66675Z"
-                    stroke="currentColor"
-                    strokeWidth="2.66667"
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                  />
-                </svg>
+                <a href={item.link}>More</a>
+
               </p>
             </div>
           </div>

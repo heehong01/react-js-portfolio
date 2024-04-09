@@ -43,9 +43,9 @@
     {
       "id": "3",
       "src": "./img/github-project-folder.png",
-      "title": "Full Stack Java Coding Repo",
-      "description": "Coding repository that holds all the coding projects during my time completing the Full-Stack Java Development Certification.",
-      "link": "https://github.com/heehong01/FullStackBootcamp_Projects"
+      "title": "Tableau Projects",
+      "description": "My Tableau Profile that holds all of my dashboards I've created.",
+      "link": "https://public.tableau.com/app/profile/hee.jin.hong/vizzes"
     }
   ]
 }
