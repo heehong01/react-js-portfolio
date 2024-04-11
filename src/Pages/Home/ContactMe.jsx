@@ -31,8 +31,7 @@ const ContactMe = () => {
         <p className="sub-title-">Get In Touch</p>
         <h2>Contact Me</h2>
         <p className="text-lg">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis,
-          eveniet?
+          Feel free to reach out, and let's embark on this journey together.
         </p>
       </div>
       <form ref={form} className="contact-form-container" onSubmit={sendEmail}>
@@ -72,6 +71,7 @@ const ContactMe = () => {
             <span className="text-md">Message</span>
             <textarea
               className="contact-input text-md"
+              name="message"
               id="message"
               rows="8"
               placeholder="Type your message..."
